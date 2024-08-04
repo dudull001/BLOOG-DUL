@@ -23,6 +23,7 @@ h1 {
   color: rgb(255, 39, 226);
   font-size: 200%;
 }
+
 h2 {
   color:rgb(199, 0, 123);
   font-size: 200%;
@@ -53,6 +54,7 @@ p {
   color: rgb(255, 16, 215);
   text-decoration: underline rgb(219, 15, 185);
 }
+
 .text {font-size: 115%;
   color: rgb(255, 103, 204);
 }
