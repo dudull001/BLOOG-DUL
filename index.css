@@ -1,0 +1,69 @@
+html {
+    background-image: url(imagens/background.gif);
+    background-size: 70%;
+}
+
+h1 {
+  color: rgb(255, 81, 174);
+  font-family: "Noricon", sans-serif;
+  font-size: 340%;
+}
+
+.skins {
+  color: rgb(247, 133, 228);
+  font-family: "Crimson text", serif;
+  font-size: small;
+  float: right;
+  position: relative;
+  right: 70cap;
+  line-height: 11%;
+}
+
+.me {
+  color: rgb(255, 39, 226);
+  font-size: 200%;
+}
+h2 {
+  color:rgb(199, 0, 123);
+  font-size: 200%;
+}
+
+.dotart {
+  font-size: 30%;
+  font-weight: 900;
+}
+
+.star {
+  color: rgb(255, 110, 166);
+  font-style: italic;
+}
+
+.imperios {
+  color: rgb(255, 131, 197);
+  font-family: "Crimson text", serif;
+  font-size: medium;
+}
+
+p {
+    font-family: "Crimson Text", serif;
+    font-size: 130%;
+}
+
+.thanks {
+  color: rgb(255, 16, 215);
+  text-decoration: underline rgb(219, 15, 185);
+}
+.text {font-size: 115%;
+  color: rgb(255, 103, 204);
+}
+
+#bye {
+  position: absolute;
+  right: 43%;
+}
+
+#sofi {
+  position: absolute;
+  bottom: -800%;
+  left: 92%;
+}
